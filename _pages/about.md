@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a Reader (~ associate professor) at the [School of Computer Science, University of St Andrews](https://www.st-andrews.ac.uk/computer-science/). My background spans both academia and industry, with expertise in natural language processing and machine learning. I am passionate about translating cutting-edge research into real-world applications, and I maintain a deep curiosity about fundamental scientific mysteries—particularly the emergence of human language.
 
-I got my PhD degree from [ILLC, University of Amsterdam](https://www.illc.uva.nl/) under the supervision of [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/). Following that, I worked as a postdoctoral researcher with [Prof. Ivan Titov](https://ivan-titov.org/) at the University of Edinburgh and as a research fellow at the University of Manchester. After more than four years at Amazon, I returned to academia to pursue my own research agenda.
+I got my PhD degree from [ILLC, University of Amsterdam](https://www.illc.uva.nl/) under the supervision of [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/). Following that, I worked as a postdoctoral researcher with [Ivan Titov](https://ivan-titov.org/) at the University of Edinburgh and as a research fellow at the University of Manchester. After more than four years at Amazon, I returned to academia to pursue my own research agenda.
 
 
 News
