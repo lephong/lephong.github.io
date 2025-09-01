@@ -1,0 +1,374 @@
+@inproceedings{10.1145/3729878.3746703,
+author = {Nguyen, Tai and Le, Phong and Doerr, Carola and Dang, Nguyen},
+title = {Multi-parameter Control for the (1+(λ, λ))-GA on OneMax via Deep Reinforcement Learning},
+year = {2025},
+isbn = {9798400718595},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3729878.3746703},
+doi = {10.1145/3729878.3746703},
+abstract = {It is well known that evolutionary algorithms can benefit from dynamic choices of the key parameters that control their behavior, to adjust their search strategy to the different stages of the optimization process. A prominent example where dynamic parameter choices have shown a provable super-constant speed-up is the (1 + (λ, λ)) Genetic Algorithm optimizing the OneMax function. While optimal parameter control policies result in linear expected running times, this is not possible with static parameter choices. This result has spurred a lot of interest in parameter control policies. However, many works, in particular theoretical running time analyses, focus on controlling one single parameter. Deriving policies for controlling multiple parameters remains very challenging. In this work, we reconsider the problem of the (1 + (λ, λ)) Genetic Algorithm optimizing OneMax. We decouple its four main parameters and investigate how well state-of-the-art deep reinforcement learning techniques can approximate good control policies. We show that although making deep reinforcement learning learn effectively is a challenging task, once it works, it is very powerful and is able to find policies that outperform all previously known control policies on the same benchmark. Based on the results found through reinforcement learning, we derive a simple control policy that consistently outperforms the default theory-recommended setting by 27\% and the irace-tuned policy, the strongest existing control policy on this benchmark, by 13\%, for all tested problem sizes up to 40,000.},
+booktitle = {Proceedings of the 18th ACM/SIGEVO Conference on Foundations of Genetic Algorithms},
+pages = {190–201},
+numpages = {12},
+location = {Leiden, Netherlands},
+series = {FOGA '25}
+}
+
+@inbook{10.1145/3712256.3726395,
+author = {Nguyen, Tai and Le, Phong and Biedenkapp, Andr\'{e} and Doerr, Carola and Dang, Nguyen},
+title = {On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA},
+year = {2025},
+isbn = {9798400714658},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3712256.3726395},
+abstract = {Dynamic Algorithm Configuration (DAC) has garnered significant attention in recent years, particularly in the prevalence of machine learning and deep learning algorithms. Numerous studies have leveraged the robustness of decision-making in Reinforcement Learning (RL) to address the optimization challenges associated with algorithm configuration. However, making an RL agent work properly is a non-trivial task, especially in reward design, which necessitates a substantial amount of handcrafted knowledge based on domain expertise. In this work, we study the importance of reward design in the context of DAC via a case study on controlling the population size of the (1 + (λ, λ))-GA optimizing OneMax. We observed that a poorly designed reward can hinder the RL agent's ability to learn an optimal policy because of a lack of exploration, leading to both scalability and learning divergence issues. To address those challenges, we propose the application of a reward shaping mechanism to facilitate enhanced exploration of the environment by the RL agent. Our work not only demonstrates the ability of RL in dynamically configuring the (1 + (λ, λ))-GA, but also confirms the advantages of reward shaping in the scalability of RL agents across various sizes of OneMax problems.},
+booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
+pages = {1162–1171},
+numpages = {10}
+}
+
+@inproceedings{akkerman-etal-2024-emergence,
+    title = "The Emergence of Compositional Languages in Multi-entity Referential Games: from Image to Graph Representations",
+    author = "Akkerman, Daniel  and
+      Le, Phong  and
+      Alhama, Raquel G.",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.1042/",
+    doi = "10.18653/v1/2024.emnlp-main.1042",
+    pages = "18713--18723",
+    abstract = "To study the requirements needed for a human-like language to develop, Language Emergence research uses jointly trained artificial agents which communicate to solve a task, the most popular of which is a referential game. The targets that agents refer to typically involve a single entity, which limits their ecological validity and the complexity of the emergent languages. Here, we present a simple multi-entity game in which targets include multiple entities that are spatially related. We ask whether agents dealing with multi-entity targets benefit from the use of graph representations, and explore four different graph schemes. Our game requires more sophisticated analyses to capture the extent to which the emergent languages are compositional, and crucially, what the decomposed features are. We find that emergent languages from our setup exhibit a considerable degree of compositionality, but not over all features."
+}
+
+@inproceedings{
+    tran2021oneshot,
+    title={One-shot to Weakly-Supervised Relation Classification using Language Models},
+    author={Thy Thy Tran and Phong Le and Sophia Ananiadou},
+    booktitle={3rd Conference on Automated Knowledge Base Construction},
+    year={2021},
+    url={https://openreview.net/forum?id=W0mr06PxTHp}
+}
+
+@inproceedings{le-zuidema-2020-dolfin,
+    title = "{D}o{LFI}n: Distributions over Latent Features for Interpretability",
+    author = "Le, Phong  and
+      Zuidema, Willem",
+    editor = "Scott, Donia  and
+      Bel, Nuria  and
+      Zong, Chengqing",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2020.coling-main.127/",
+    doi = "10.18653/v1/2020.coling-main.127",
+    pages = "1468--1474",
+    abstract = "Interpreting the inner workings of neural models is a key step in ensuring the robustness and trustworthiness of the models, but work on neural network interpretability typically faces a trade-off: either the models are too constrained to be very useful, or the solutions found by the models are too complex to interpret. We propose a novel strategy for achieving interpretability that {--} in our experiments {--} avoids this trade-off. Our approach builds on the success of using probability as the central quantity, such as for instance within the attention mechanism. In our architecture, DoLFIn (Distributions over Latent Features for Interpretability), we do no determine beforehand what each feature represents, and features go altogether into an unordered set. Each feature has an associated probability ranging from 0 to 1, weighing its importance for further processing. We show that, unlike attention and saliency map approaches, this set-up makes it straight-forward to compute the probability with which an input component supports the decision the neural model makes. To demonstrate the usefulness of the approach, we apply DoLFIn to text classification, and show that DoLFIn not only provides interpretable solutions, but even slightly outperforms the classical CNN and BiLSTM text classifiers on the SST2 and AG-news datasets."
+}
+
+@inproceedings{tran-etal-2020-revisiting,
+    title = "Revisiting Unsupervised Relation Extraction",
+    author = "Tran, Thy Thy  and
+      Le, Phong  and
+      Ananiadou, Sophia",
+    editor = "Jurafsky, Dan  and
+      Chai, Joyce  and
+      Schluter, Natalie  and
+      Tetreault, Joel",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.acl-main.669/",
+    doi = "10.18653/v1/2020.acl-main.669",
+    pages = "7498--7505",
+    abstract = "Unsupervised relation extraction (URE) extracts relations between named entities from raw text without manually-labelled data and existing knowledge bases (KBs). URE methods can be categorised into generative and discriminative approaches, which rely either on hand-crafted features or surface form. However, we demonstrate that by using only named entities to induce relation types, we can outperform existing methods on two popular datasets. We conduct a comparison and evaluation of our findings with other URE techniques, to ascertain the important features in URE. We conclude that entity types provide a strong inductive bias for URE."
+}
+
+@inproceedings{le-titov-2019-boosting,
+    title = "Boosting Entity Linking Performance by Leveraging Unlabeled Documents",
+    author = "Le, Phong  and
+      Titov, Ivan",
+    editor = "Korhonen, Anna  and
+      Traum, David  and
+      M{\`a}rquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P19-1187/",
+    doi = "10.18653/v1/P19-1187",
+    pages = "1935--1945",
+    abstract = "Modern entity linking systems rely on large collections of documents specifically annotated for the task (e.g., AIDA CoNLL). In contrast, we propose an approach which exploits only naturally occurring information: unlabeled documents and Wikipedia. Our approach consists of two stages. First, we construct a high recall list of candidate entities for each mention in an unlabeled document. Second, we use the candidate lists as weak supervision to constrain our document-level entity linking model. The model treats entities as latent variables and, when estimated on a collection of unlabelled texts, learns to choose entities relying both on local context of each mention and on coherence with other entities in the document. The resulting approach rivals fully-supervised state-of-the-art systems on standard test sets. It also approaches their performance in the very challenging setting: when tested on a test set sampled from the data used to estimate the supervised systems. By comparing to Wikipedia-only training of our model, we demonstrate that modeling unlabeled documents is beneficial."
+}
+
+@inproceedings{le-titov-2019-distant,
+    title = "Distant Learning for Entity Linking with Automatic Noise Detection",
+    author = "Le, Phong  and
+      Titov, Ivan",
+    editor = "Korhonen, Anna  and
+      Traum, David  and
+      M{\`a}rquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P19-1400/",
+    doi = "10.18653/v1/P19-1400",
+    pages = "4081--4090",
+    abstract = "Accurate entity linkers have been produced for domains and languages where annotated data (i.e., texts linked to a knowledge base) is available. However, little progress has been made for the settings where no or very limited amounts of labeled data are present (e.g., legal or most scientific domains). In this work, we show how we can learn to link mentions without having any labeled examples, only a knowledge base and a collection of unannotated texts from the corresponding domain. In order to achieve this, we frame the task as a multi-instance learning problem and rely on surface matching to create initial noisy labels. As the learning signal is weak and our surrogate labels are noisy, we introduce a noise detection component in our model: it lets the model detect and disregard examples which are likely to be noisy. Our method, jointly learning to detect noise and link entities, greatly outperforms the surface matching baseline. For a subset of entity categories, it even approaches the performance of supervised learning."
+}
+
+@incollection{10.7551/mitpress/10841.003.0028,
+    author = {Zuidema, Willem and Le, Phong},
+    isbn = {9780262353861},
+    title = {Vector-Based and Neural Models of Semantics},
+    booktitle = {Human Language: From Genes and Brains to Behavior},
+    publisher = {The MIT Press},
+    year = {2019},
+    month = {10},
+    doi = {10.7551/mitpress/10841.003.0028},
+    url = {https://doi.org/10.7551/mitpress/10841.003.0028},
+    eprint = {https://direct.mit.edu/book/chapter-pdf/2051067/c017300\_9780262353861.pdf},
+}
+
+@inproceedings{le-titov-2018-improving,
+    title = "Improving Entity Linking by Modeling Latent Relations between Mentions",
+    author = "Le, Phong  and
+      Titov, Ivan",
+    editor = "Gurevych, Iryna  and
+      Miyao, Yusuke",
+    booktitle = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2018",
+    address = "Melbourne, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P18-1148/",
+    doi = "10.18653/v1/P18-1148",
+    pages = "1595--1604",
+    abstract = "Entity linking involves aligning textual mentions of named entities to their corresponding entries in a knowledge base. Entity linking systems often exploit relations between textual mentions in a document (e.g., coreference) to decide if the linking decisions are compatible. Unlike previous approaches, which relied on supervised systems or heuristics to predict these relations, we treat relations as latent variables in our neural entity-linking model. We induce the relations without any supervision while optimizing the entity-linking system in an end-to-end fashion. Our multi-relational model achieves the best reported scores on the standard benchmark (AIDA-CoNLL) and substantially outperforms its relation-agnostic version. Its training also converges much faster, suggesting that the injected structural bias helps to explain regularities in the training data."
+}
+
+@inproceedings{le-titov-2017-optimizing,
+    title = "Optimizing Differentiable Relaxations of Coreference Evaluation Metrics",
+    author = "Le, Phong  and
+      Titov, Ivan",
+    editor = "Levy, Roger  and
+      Specia, Lucia",
+    booktitle = "Proceedings of the 21st Conference on Computational Natural Language Learning ({C}o{NLL} 2017)",
+    month = aug,
+    year = "2017",
+    address = "Vancouver, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/K17-1039/",
+    doi = "10.18653/v1/K17-1039",
+    pages = "390--399",
+    abstract = "Coreference evaluation metrics are hard to optimize directly as they are non-differentiable functions, not easily decomposable into elementary decisions. Consequently, most approaches optimize objectives only indirectly related to the end goal, resulting in suboptimal performance. Instead, we propose a differentiable relaxation that lends itself to gradient-based optimisation, thus bypassing the need for reinforcement learning or heuristic modification of cross-entropy. We show that by modifying the training objective of a competitive neural coreference system, we obtain a substantial gain in performance. This suggests that our approach can be regarded as a viable alternative to using reinforcement learning or more computationally expensive imitation learning."
+}
+
+@inproceedings{le-etal-2016-lstm,
+    title = "{LSTM}-Based Mixture-of-Experts for Knowledge-Aware Dialogues",
+    author = "Le, Phong  and
+      Dymetman, Marc  and
+      Renders, Jean-Michel",
+    editor = "Blunsom, Phil  and
+      Cho, Kyunghyun  and
+      Cohen, Shay  and
+      Grefenstette, Edward  and
+      Hermann, Karl Moritz  and
+      Rimell, Laura  and
+      Weston, Jason  and
+      Yih, Scott Wen-tau",
+    booktitle = "Proceedings of the 1st Workshop on Representation Learning for {NLP}",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W16-1611/",
+    doi = "10.18653/v1/W16-1611",
+    pages = "94--99"
+}
+
+@inproceedings{le-zuidema-2016-quantifying,
+    title = "Quantifying the Vanishing Gradient and Long Distance Dependency Problem in Recursive Neural Networks and Recursive {LSTM}s",
+    author = "Le, Phong  and
+      Zuidema, Willem",
+    editor = "Blunsom, Phil  and
+      Cho, Kyunghyun  and
+      Cohen, Shay  and
+      Grefenstette, Edward  and
+      Hermann, Karl Moritz  and
+      Rimell, Laura  and
+      Weston, Jason  and
+      Yih, Scott Wen-tau",
+    booktitle = "Proceedings of the 1st Workshop on Representation Learning for {NLP}",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W16-1610/",
+    doi = "10.18653/v1/W16-1610",
+    pages = "87--93"
+}
+
+@inproceedings{le-zuidema-2015-forest,
+    title = "The Forest Convolutional Network: Compositional Distributional Semantics with a Neural Chart and without Binarization",
+    author = "Le, Phong  and
+      Zuidema, Willem",
+    editor = "M{\`a}rquez, Llu{\'i}s  and
+      Callison-Burch, Chris  and
+      Su, Jian",
+    booktitle = "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing",
+    month = sep,
+    year = "2015",
+    address = "Lisbon, Portugal",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D15-1137/",
+    doi = "10.18653/v1/D15-1137",
+    pages = "1155--1164"
+}
+
+@inproceedings{le-2015-enhancing,
+    title = "Enhancing the Inside-Outside Recursive Neural Network Reranker for Dependency Parsing",
+    author = "Le, Phong",
+    booktitle = "Proceedings of the 14th International Conference on Parsing Technologies",
+    month = jul,
+    year = "2015",
+    address = "Bilbao, Spain",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W15-2211/",
+    doi = "10.18653/v1/W15-2211",
+    pages = "87--91"
+}
+
+@inproceedings{le-zuidema-2015-compositional,
+    title = "Compositional Distributional Semantics with Long Short Term Memory",
+    author = "Le, Phong  and
+      Zuidema, Willem",
+    editor = "Palmer, Martha  and
+      Boleda, Gemma  and
+      Rosso, Paolo",
+    booktitle = "Proceedings of the Fourth Joint Conference on Lexical and Computational Semantics",
+    month = jun,
+    year = "2015",
+    address = "Denver, Colorado",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/S15-1002/",
+    doi = "10.18653/v1/S15-1002",
+    pages = "10--19"
+}
+
+@inproceedings{le-zuidema-2015-unsupervised,
+    title = "Unsupervised Dependency Parsing: Let`s Use Supervised Parsers",
+    author = "Le, Phong  and
+      Zuidema, Willem",
+    editor = "Mihalcea, Rada  and
+      Chai, Joyce  and
+      Sarkar, Anoop",
+    booktitle = "Proceedings of the 2015 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = may # "–" # jun,
+    year = "2015",
+    address = "Denver, Colorado",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N15-1067/",
+    doi = "10.3115/v1/N15-1067",
+    pages = "651--661"
+}
+
+@inproceedings{le2014inside,
+  title={Inside-outside semantics: A framework for neural models of semantic composition},
+  author={Le, Phong and Zuidema, Willem},
+  booktitle={NIPS 2014 Workshop on Deep Learning and Representation Learning},
+  url = "https://projects.illc.uva.nl/LaCo/clclab/assets/pdfs/2014/le2014.pdf",
+  year={2014}
+}
+
+@inproceedings{le-zuidema-2014-inside,
+    title = "The Inside-Outside Recursive Neural Network model for Dependency Parsing",
+    author = "Le, Phong  and
+      Zuidema, Willem",
+    editor = "Moschitti, Alessandro  and
+      Pang, Bo  and
+      Daelemans, Walter",
+    booktitle = "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing ({EMNLP})",
+    month = oct,
+    year = "2014",
+    address = "Doha, Qatar",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D14-1081/",
+    doi = "10.3115/v1/D14-1081",
+    pages = "729--739"
+}
+
+@inproceedings{le-etal-2013-learning,
+    title = "Learning from errors: Using vector-based compositional semantics for parse reranking",
+    author = "Le, Phong  and
+      Zuidema, Willem  and
+      Scha, Remko",
+    editor = "Allauzen, Alexandre  and
+      Larochelle, Hugo  and
+      Manning, Christopher  and
+      Socher, Richard",
+    booktitle = "Proceedings of the Workshop on Continuous Vector Space Models and their Compositionality",
+    month = aug,
+    year = "2013",
+    address = "Sofia, Bulgaria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W13-3202/",
+    pages = "11--19"
+}
+
+@inproceedings{le-zuidema-2012-learning,
+    title = "Learning Compositional Semantics for Open Domain Semantic Parsing",
+    author = "Le, Phong  and
+      Zuidema, Willem",
+    editor = "Kay, Martin  and
+      Boitet, Christian",
+    booktitle = "Proceedings of {COLING} 2012",
+    month = dec,
+    year = "2012",
+    address = "Mumbai, India",
+    publisher = "The COLING 2012 Organizing Committee",
+    url = "https://aclanthology.org/C12-1094/",
+    pages = "1535--1552"
+}
+
+@INPROCEEDINGS{5174615,
+  author={Le, Phong and Duong, Anh Duc and Vu, Hai Quan and Pham, Nam Trung},
+  booktitle={2009 IEEE-RIVF International Conference on Computing and Communication Technologies}, 
+  title={Adaptive Hybrid Mean Shift and Particle Filter}, 
+  year={2009},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Particle filters;Target tracking;Particle tracking;State estimation;Robustness;Stochastic processes;Colored noise;Histograms;Information technology;Cities and towns},
+  doi={10.1109/RIVF.2009.5174615}}
+
+
+@phdthesis{le2016learning,
+  title={Learning Vector Representations for Sentences-The Recursive Deep Learning Approach},
+  author={Le, Phong},
+  url={https://eprints.illc.uva.nl/id/eprint/2135/},
+  year={2016},
+  school={PhD Thesis. University of Amsterdam}
+}
+
+@phdthesis{le2012learning,
+  title={Learning Semantic Parsing},
+  author={Le, Phong},
+  url={https://drive.google.com/file/d/0B9oyNs4QrsowNmh0bkk1TjhNM3c/view?usp=sharing&resourcekey=0-AC7cgI3q8nEJgIS76XABDw},
+  year={2012},
+  school={MSc Thesis. University of Amsterdam}
+}
