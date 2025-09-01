@@ -20,6 +20,8 @@ import re
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
+import codecs
+import latexcodec
 
 import bibtexparser
 
@@ -93,10 +95,22 @@ def pick_paper_url(entry: dict, slug: str, pdf_dir: Path | None) -> str:
 def md_escape_text(s: str) -> str:
     return (s or "").replace("\n", " ").strip()
 
+def normalize(text):
+    text = codecs.decode(text, "ulatex")
+    text = text.replace('{', '').replace('}', '')
+    return text
+
 def make_entry_line(entry: dict, pdf_dir: Path | None) -> str:
     title = md_escape_text(entry.get("title", "Untitled"))
+    title = normalize(title)
+    
     authors = md_escape_text(format_authors(entry.get("author", "")))
+    authors = authors.replace('Phong Le', '**Phong Le**')
+    authors = normalize(authors)
+    
     venue = md_escape_text(detect_venue(entry))
+    venue = normalize(venue)
+    
     year = year_or_default(entry)
     slug = to_slug(entry.get("ID") or title)
     url = pick_paper_url(entry, slug, pdf_dir)
@@ -104,9 +118,12 @@ def make_entry_line(entry: dict, pdf_dir: Path | None) -> str:
     title_md = f"**[{title}]({url})**" if url else f"**{title}**"
     venue_md = f"*{venue}*" if venue else ""
     parts = [authors, title_md]
+    
     if venue_md:
         parts.append(venue_md)
+    
     parts.append(str(year))
+    
     # Combine as: Title — Authors — *Venue* — Year
     return ". ".join([p for p in parts if p])
 
