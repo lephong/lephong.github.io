@@ -40,5 +40,5 @@ In collaboration with [Nguyen Dang](https://ndangtt.github.io/) and [Carola Doer
 
 Students 
 ======
-- Thomas Martin (PhD student in sign language translation, co-supervised with [Simon Dobson](https://www.st-andrews.ac.uk/computer-science/people/sd80/))
-- Aarushi Sharma (PhD student in ethics in AI, co-supervised with [Anthony F Lang, Jr.](https://www.st-andrews.ac.uk/international-relations/people/al51/))
+- Thomas Martin (PhD student, sign language translation, co-supervised with [Simon Dobson](https://www.st-andrews.ac.uk/computer-science/people/sd80/))
+- Aarushi Sharma (PhD student, ethics in AI, co-supervised with [Anthony F Lang, Jr.](https://www.st-andrews.ac.uk/international-relations/people/al51/))
