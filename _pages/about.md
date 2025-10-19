@@ -29,13 +29,12 @@ I have been working in natural language processing since my PhD, which focused o
 More recently, in collaboration with [Raquel G. Alhama](https://rgalhama.github.io/), I have begun exploring the emergence of communication—an exciting direction at the intersection of language, cognition, and learning. To support this work, we co-founded the [Koala lab](https://rgalhama.github.io/index.html?p=koala).
 
 
-## Machine learning for optimization
+## Others 
 
-In collaboration with [Nguyen Dang](https://ndangtt.github.io/) and [Carola Doerr](https://www.lip6.fr/Carola.Doerr), I also investigate how machine learning can be leveraged to tackle optimization problems, such as SAT and combinatorial optimization.
+**ML for optimization** with [Nguyen Dang](https://ndangtt.github.io/) and [Carola Doerr](https://www.lip6.fr/Carola.Doerr), we investigate how machine learning can be leveraged to tackle optimization problems, such as SAT and combinatorial optimization.
 
 
-## Others
-...
+**ML for chemistry** with [Amit Kumar](https://www.st-andrews.ac.uk/chemistry/people/ak336/) and [Nguyen Dang](https://ndangtt.github.io/), we apply ML to plastic recyling.
 
 
 Students 
