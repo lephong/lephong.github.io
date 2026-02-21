@@ -14,10 +14,14 @@ I got my PhD degree from [ILLC, University of Amsterdam](https://www.illc.uva.nl
 
 News
 ======
+- Paper "Hierarchical Text Classification with LLM-Refined Taxonomies" has been accepted at [EACL'26](https://2026.eacl.org/). Joint work with
+[Jonas Golde](https://github.com/whoisjones), Nicolaas Paul Jedema and RaviKiran Krishnan.
 
-- Our paper ["On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA"](https://arxiv.org/abs/2502.20265) has received a best paper award at [GECCO'2025](https://gecco-2025.sigevo.org/HomePage) (L4EC track) :trophy:. Joint work with [Tai Nguyen](https://research-portal.st-andrews.ac.uk/en/persons/tai-nguyen), [André  Biedenkapp](https://andrebiedenkapp.github.io/), [Carola Doerr](https://www.lip6.fr/Carola.Doerr), and [Nguyen Dang](https://ndangtt.github.io/).
+- Paper "An emergent communication framework for honeybee waggle dance" has been accepted at [EVOLANG'26](https://sites.google.com/york.ac.uk/evolang2026/home). Joint work with Nabila P.R. Siregar and [Raquel G. Alhama](https://rgalhama.github.io/).
 
-- Our paper ["Multi-parameter Control for the (1+(λ,λ))-GA on OneMax via Deep Reinforcement Learning"](https://arxiv.org/abs/2505.12982) has been accepted at [FOGA'2025](https://naco.liacs.nl/foga2025//). Joint work with [Tai Nguyen](https://research-portal.st-andrews.ac.uk/en/persons/tai-nguyen), [Carola Doerr](https://www.lip6.fr/Carola.Doerr), and [Nguyen Dang](https://ndangtt.github.io/).
+- Paper ["On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA"](https://arxiv.org/abs/2502.20265) has received a best paper award at [GECCO'2025](https://gecco-2025.sigevo.org/HomePage) (L4EC track) :trophy:. Joint work with [Tai Nguyen](https://research-portal.st-andrews.ac.uk/en/persons/tai-nguyen), [André  Biedenkapp](https://andrebiedenkapp.github.io/), [Carola Doerr](https://www.lip6.fr/Carola.Doerr), and [Nguyen Dang](https://ndangtt.github.io/).
+
+- Paper ["Multi-parameter Control for the (1+(λ,λ))-GA on OneMax via Deep Reinforcement Learning"](https://arxiv.org/abs/2505.12982) has been accepted at [FOGA'2025](https://naco.liacs.nl/foga2025//). Joint work with [Tai Nguyen](https://research-portal.st-andrews.ac.uk/en/persons/tai-nguyen), [Carola Doerr](https://www.lip6.fr/Carola.Doerr), and [Nguyen Dang](https://ndangtt.github.io/).
 
 Research
 ======
