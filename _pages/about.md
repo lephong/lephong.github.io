@@ -17,7 +17,9 @@ News
 - Paper "Hierarchical Text Classification with LLM-Refined Taxonomies" has been accepted at [EACL'26](https://2026.eacl.org/). Joint work with
 [Jonas Golde](https://github.com/whoisjones), Nicolaas Paul Jedema and RaviKiran Krishnan.
 
-- Paper "An emergent communication framework for honeybee waggle dance" has been accepted at [EVOLANG'26](https://sites.google.com/york.ac.uk/evolang2026/home). Joint work with Nabila P.R. Siregar and [Raquel G. Alhama](https://rgalhama.github.io/).
+- Paper "An emergent communication framework for honeybee waggle dance" has been accepted at [EVOLANG'26](https://sites.google.com/york.ac.uk/evolang2026/home). Joint work with Nabila P.R. Siregar (MSc student, UvA & VU Amsterdam) and [Raquel G. Alhama](https://rgalhama.github.io/).
+
+- Paper ["Automated Constraint Model Modification with Large Language Models"](https://drive.google.com/uc?export=download&id=1UAUY0ogGMtpwRAa6uYnU0UlXosAuQw2v) has been accepted at [LLM-Solve@CP'25 workshop](https://sites.google.com/view/llm-solve). Joint work with Adam Kuca (BSc student, Uni of St Andrews) and [Nguyen Dang](https://ndangtt.github.io/).
 
 - Paper ["On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA"](https://arxiv.org/abs/2502.20265) has received a best paper award at [GECCO'2025](https://gecco-2025.sigevo.org/HomePage) (L4EC track) :trophy:. Joint work with [Tai Nguyen](https://research-portal.st-andrews.ac.uk/en/persons/tai-nguyen), [André  Biedenkapp](https://andrebiedenkapp.github.io/), [Carola Doerr](https://www.lip6.fr/Carola.Doerr), and [Nguyen Dang](https://ndangtt.github.io/).
 
