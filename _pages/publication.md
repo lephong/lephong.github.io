@@ -5,6 +5,8 @@ permalink: /publication/
 author_profile: true
 ---
 
+- Aarushi Sharma, *Phong Le*, **Encoding Without Influence: Dissociating Demographic Representation from Causal Effect in Large Language Models**, *TMLR*, 2026. (accepted)
+ 
 - Jonas Golde, Nicolaas Paul Jedema, RaviKiran Krishnan, *Phong Le*, **Hierarchical Text Classification with LLM-Refined Taxonomies**, *EACL*, 2026.
 
 - Nabila P.R. Siregar, *Phong Le*, Raquel G. Alhama, **An emergent communication framework for honeybee waggle dance**, *EVOLANG*, 2026.
