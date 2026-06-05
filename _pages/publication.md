@@ -7,9 +7,9 @@ author_profile: true
 
 - Aarushi Sharma, *Phong Le*, **Encoding Without Influence: Dissociating Demographic Representation from Causal Effect in Large Language Models**, *TMLR*, 2026. (accepted)
  
-- Jonas Golde, Nicolaas Paul Jedema, RaviKiran Krishnan, *Phong Le*, **Hierarchical Text Classification with LLM-Refined Taxonomies**, *EACL*, 2026.
+- Jonas Golde, Nicolaas Paul Jedema, RaviKiran Krishnan, *Phong Le*, **[Hierarchical Text Classification with LLM-Refined Taxonomies](https://aclanthology.org/2026.eacl-long.10.pdf)**, *EACL*, 2026.
 
-- Nabila P.R. Siregar, *Phong Le*, Raquel G. Alhama, **An emergent communication framework for honeybee waggle dance**, *EVOLANG*, 2026.
+- Nabila P.R. Siregar, *Phong Le*, Raquel G. Alhama, **[An emergent communication framework for honeybee waggle dance](https://evolang.org/2026/proceedings/evolang16_proceedings.pdf)**, *EVOLANG*, 2026.
 
 - Adam Kuca, *Phong Le*, Nguyen Dang, **[Automated Constraint Model Modification with Large Language Models](https://drive.google.com/uc?export=download&id=1UAUY0ogGMtpwRAa6uYnU0UlXosAuQw2v)**, *LLM-Solve@CP Workshop*, 2025.
 
