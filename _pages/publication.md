@@ -5,6 +5,8 @@ permalink: /publication/
 author_profile: true
 ---
 
+- Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, and Nguyen Dang. **Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA**. *TELO*. 2026. (accepted)
+
 - Aarushi Sharma, *Phong Le*, **Encoding Without Influence: Dissociating Demographic Representation from Causal Effect in Large Language Models**, *TMLR*, 2026. (accepted)
  
 - Jonas Golde, Nicolaas Paul Jedema, RaviKiran Krishnan, *Phong Le*, **[Hierarchical Text Classification with LLM-Refined Taxonomies](https://aclanthology.org/2026.eacl-long.10.pdf)**, *EACL*, 2026.
@@ -14,6 +16,7 @@ author_profile: true
 - Adam Kuca, *Phong Le*, Nguyen Dang, **[Automated Constraint Model Modification with Large Language Models](https://drive.google.com/uc?export=download&id=1UAUY0ogGMtpwRAa6uYnU0UlXosAuQw2v)**, *LLM-Solve@CP Workshop*, 2025.
 
 - Tai Nguyen, *Phong Le*, Carola Doerr, and Nguyen Dang. **[Multi-parameter Control for the (1+(λ, λ))-GA on OneMax via Deep Reinforcement Learning](https://doi.org/10.1145/3729878.3746703)**. *FOGA*. 2025
+
 - Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, and Nguyen Dang. **[On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA](https://doi.org/10.1145/3712256.3726395)**. *GECCO*. 2025
 
 - Daniel Akkerman, *Phong Le*, and Raquel G. Alhama. **[The Emergence of Compositional Languages in Multi-entity Referential Games: from Image to Graph Representations](https://aclanthology.org/2024.emnlp-main.1042/)**. *EMNLP*. 2024
