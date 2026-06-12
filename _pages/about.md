@@ -14,11 +14,9 @@ I got my PhD degree from [ILLC, University of Amsterdam](https://www.illc.uva.nl
 
 News
 ======
-- 02/2026 -- We have one paper accepted at EACL and one at EVOLANG.
 
 - 07/2025 -- Our paper ["On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA"](https://arxiv.org/abs/2502.20265) has received a best paper award at [GECCO'2025](https://gecco-2025.sigevo.org/HomePage) (L4EC track) :trophy:. Joint work with [Tai Nguyen](https://research-portal.st-andrews.ac.uk/en/persons/tai-nguyen), [André  Biedenkapp](https://andrebiedenkapp.github.io/), [Carola Doerr](https://www.lip6.fr/Carola.Doerr), and [Nguyen Dang](https://ndangtt.github.io/).
 
-- 06/2025 -- We have one paper accepted at GECCO and one at FOGA.
 
 Research
 ======
