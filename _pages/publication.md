@@ -5,9 +5,9 @@ permalink: /publication/
 author_profile: true
 ---
 
-- Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, and Nguyen Dang. **[Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA](https://arxiv.org/abs/2512.03805)**. *TELO*. 2026. (accepted)
+- Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, and Nguyen Dang. **[Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA](https://arxiv.org/abs/2512.03805)**. *TELO*. 2026.
 
-- Aarushi Sharma, *Phong Le*, **Encoding Without Influence: Dissociating Demographic Representation from Causal Effect in Large Language Models**, *TMLR*, 2026. (accepted)
+- Aarushi Sharma, *Phong Le*, **[Encoding Without Influence: Dissociating Demographic Representation from Causal Effect in Large Language Models](https://openreview.net/forum?id=TQbXHsI3Lm)**, *TMLR*, 2026.
  
 - Jonas Golde, Nicolaas Paul Jedema, RaviKiran Krishnan, *Phong Le*, **[Hierarchical Text Classification with LLM-Refined Taxonomies](https://aclanthology.org/2026.eacl-long.10.pdf)**, *EACL*, 2026.
 
