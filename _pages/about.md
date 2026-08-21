@@ -38,5 +38,6 @@ More recently, in collaboration with [Raquel G. Alhama](https://rgalhama.github.
 
 Students 
 ======
+- Tammo Brandes (PhD student, language emergence)
 - Thomas Martin (PhD student, sign language translation, co-supervised with [Simon Dobson](https://www.st-andrews.ac.uk/computer-science/people/sd80/))
 - Aarushi Sharma (PhD student, ethics in AI, co-supervised with [Anthony F Lang, Jr.](https://www.st-andrews.ac.uk/international-relations/people/al51/))
