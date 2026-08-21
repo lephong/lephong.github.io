@@ -5,7 +5,9 @@ permalink: /publication/
 author_profile: true
 ---
 
-- Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, and Nguyen Dang. **[Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA](https://arxiv.org/abs/2512.03805)**. *TELO*. 2026.
+- *Phong Le*, Mees Lindeman, Raquel G. Alhama, **On the Optimality of Kinship Naming: an Information-theoretic Approach**. *EMNLP*, 2026 (accepted). 
+
+- Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, Nguyen Dang. **[Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA](https://arxiv.org/abs/2512.03805)**. *TELO*. 2026.
 
 - Aarushi Sharma, *Phong Le*, **[Encoding Without Influence: Dissociating Demographic Representation from Causal Effect in Large Language Models](https://openreview.net/forum?id=TQbXHsI3Lm)**, *TMLR*, 2026.
  
