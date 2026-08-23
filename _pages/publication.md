@@ -5,6 +5,8 @@ permalink: /publication/
 author_profile: true
 ---
 
+### 2026
+
 - *Phong Le*, Mees Lindeman, Raquel G. Alhama, **On the Optimality of Kinship Naming: an Information-theoretic Approach**. *EMNLP*, 2026 (accepted). 
 
 - Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, Nguyen Dang. **[Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA](https://arxiv.org/abs/2512.03805)**. *TELO*. 2026.
@@ -15,12 +17,17 @@ author_profile: true
 
 - Nabila P.R. Siregar, *Phong Le*, Raquel G. Alhama, **[An emergent communication framework for honeybee waggle dance](https://evolang.org/2026/proceedings/evolang16_proceedings.pdf)**, *EVOLANG*, 2026.
 
+
+### 2025 
+
 - Adam Kuca, *Phong Le*, Nguyen Dang, **[Automated Constraint Model Modification with Large Language Models](https://drive.google.com/uc?export=download&id=1UAUY0ogGMtpwRAa6uYnU0UlXosAuQw2v)**, *LLM-Solve@CP Workshop*, 2025.
 
 - Tai Nguyen, *Phong Le*, Carola Doerr, and Nguyen Dang. **[Multi-parameter Control for the (1+(λ, λ))-GA on OneMax via Deep Reinforcement Learning](https://doi.org/10.1145/3729878.3746703)**. *FOGA*. 2025
 
 - Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, and Nguyen Dang. **[On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA](https://doi.org/10.1145/3712256.3726395)**. *GECCO*. 2025
 
+
+### - 2024
 - Daniel Akkerman, *Phong Le*, and Raquel G. Alhama. **[The Emergence of Compositional Languages in Multi-entity Referential Games: from Image to Graph Representations](https://aclanthology.org/2024.emnlp-main.1042/)**. *EMNLP*. 2024
 
 - Thy Thy Tran, *Phong Le*, and Sophia Ananiadou. **[One-shot to Weakly-Supervised Relation Classification using Language Models](https://openreview.net/forum?id=W0mr06PxTHp)**. *AKBC*. 2021
