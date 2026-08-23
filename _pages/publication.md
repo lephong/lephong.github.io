@@ -27,9 +27,11 @@ author_profile: true
 - Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, and Nguyen Dang. **[On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+(λ,λ))-GA](https://doi.org/10.1145/3712256.3726395)**. *GECCO*. 2025
 
 
-### - 2024
+### 2024
 - Daniel Akkerman, *Phong Le*, and Raquel G. Alhama. **[The Emergence of Compositional Languages in Multi-entity Referential Games: from Image to Graph Representations](https://aclanthology.org/2024.emnlp-main.1042/)**. *EMNLP*. 2024
 
+
+### < 2024
 - Thy Thy Tran, *Phong Le*, and Sophia Ananiadou. **[One-shot to Weakly-Supervised Relation Classification using Language Models](https://openreview.net/forum?id=W0mr06PxTHp)**. *AKBC*. 2021
 
 
