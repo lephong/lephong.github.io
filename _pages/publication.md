@@ -7,7 +7,9 @@ author_profile: true
 
 ### 2026
 
-- *Phong Le*, Mees Lindeman, Raquel G. Alhama, **On the Optimality of Kinship Naming: an Information-theoretic Approach**. *EMNLP*, 2026 (accepted). 
+- Tai Nguyen, Fei Liu, *Phong Le*, Carola Doerr, Nguyen Dang. **[AdaEva: Accelerating LLM-Driven Algorithm Design with Adaptive Partial Evaluation](https://arxiv.org/abs/2610.03896)**. arxiv, 2026.  
+
+- *Phong Le*, Mees Lindeman, Raquel G. Alhama, **On the Optimality of Kinship Naming: an Information-theoretic Approach**. *EMNLP*, 2026. 
 
 - Tai Nguyen, *Phong Le*, André Biedenkapp, Carola Doerr, Nguyen Dang. **[Deep Reinforcement Learning for Dynamic Algorithm Configuration: A Case Study on Optimizing OneMax with the (1+(λ,λ))-GA](https://arxiv.org/abs/2512.03805)**. *TELO*. 2026.
 
